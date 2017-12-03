@@ -1,0 +1,11 @@
+
+.position{
+	position: absolute;
+	top: 100px;
+	right: 40px;
+}
+
+i .fa{
+	display: inline-block;
+	font-size: 32px;
+}
